@@ -1,2 +1,2 @@
 # warships
-Simple JavaScript game
+Simple JavaScript game. Enjoy :)
